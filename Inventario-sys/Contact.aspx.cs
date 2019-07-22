@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Inventario_sys
+namespace Demo_PDF
 {
     public partial class Contact : Page
     {

@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Inventario_sys {
+namespace Demo_PDF {
     
     
     public partial class Site_Mobile {
